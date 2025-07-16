@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data & model artifacts
+*.pkl
+*.joblib
+*.h5
+*.csv
+
+# VS Code config
+.vscode/
+
+# Jupyter & Streamlit cache
+.ipynb_checkpoints/
+.streamlit/
